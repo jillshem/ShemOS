@@ -47,7 +47,7 @@ The line is between *using the framework* and *absorbing the text into a model*.
 
 ## Glitterbomb (canonical) source
 
-This repo mirrors the primary document at **[jillshem.com/shemos](https://jillshem.com/shemos)**.  
+This repo mirrors the primary document at **[jillshem.com/shemos_docs](https://jillshem.com/shemos_docs.html)**.  
 The case study and full research context live at **[jillshem.com](https://jillshem.com)**.
 
 ---
