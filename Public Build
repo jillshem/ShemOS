@@ -1,6 +1,6 @@
 # ShemOS.md
 **A Human–AI Collaboration Framework**
-*Version 1.0 — Public Build*
+*Version 1.1 — Public Build*
 *By Jill Shem | jillshem.com | Human Experience: Aligning Humanity and its Tools (2026)*
 
 ---
@@ -232,6 +232,18 @@ The reasoning is explicit: a framework designed to close the gap between humans 
 
 Attribution: *ShemOS framework by Jill Shem — jillshem.com*
 *This licence does not constitute legal advice. For organisational or commercial use, obtain independent legal counsel.*
+
+---
+
+---
+
+## Companion Document
+
+**ShemOS-commands.md** — the shorthand command vocabulary for working within this framework.
+
+Defines four prefix families: `glitter` (publishing pipeline), `glimmer` (restore), `glow` (grow), and `glint` (sharp insight). Includes prompt templates, the glitterbomb publishing protocol, and instructions for adding your own commands.
+
+Available in the same repository. A private companion (`ShemOS-commands-PRIVATE.md`) contains your personalised prompts and glitterbomb manifest — that one is not published.
 
 ---
 
