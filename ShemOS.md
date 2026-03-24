@@ -246,8 +246,6 @@ Attribution: *ShemOS framework by Jill Shem — jillshem.com*
 
 Defines four prefix families: `glitter` (publishing pipeline), `glimmer` (restore), `glow` (grow), and `glint` (sharp insight). Includes prompt templates, the glitterbomb publishing protocol, and instructions for adding your own commands.
 
-Available in the same repository. A private companion (`ShemOS-commands-PRIVATE.md`) contains your personalised prompts and glitterbomb manifest — that one is not published.
-
 ---
 
 *First published 2026 · Updated: 2026-03-23 · Live document · The framework updates as the case study updates.*
