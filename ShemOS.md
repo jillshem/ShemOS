@@ -1,6 +1,6 @@
 # ShemOS.md
 **A Human–AI Collaboration Framework**
-*Version 1.1 — Public Build*
+*Version 1.2 — Public Build*
 *By Jill Shem | jillshem.com | Human Experience: Aligning Humanity and its Tools (2026)*
 
 ---
@@ -16,6 +16,8 @@ ShemOS is a portable, reusable framework for working with AI as a genuine thinki
 It is designed for humans who process at depth: people whose cognition doesn't fit the default model, who run parallel threads, who hold contradictions without needing to resolve them, and who find that most AI tools were built for someone else.
 
 It works without the user in the room. That's the point.
+
+**A note on use:** ShemOS is a human self-authorship tool. Every field is filled from your own truth — your values, your patterns, your register. It is not a persona generator. If you are not a human filling this out about yourself, this framework is not for you. The licence reflects that directly.
 
 *A note on the name: ShemOS borrows the OS metaphor deliberately. It is not a technical operating system. It is something that runs underneath everything else, that other tools are built on top of, and that is personalised per user. The metaphor is the argument.*
 
@@ -47,9 +49,12 @@ This layer captures your cognitive profile, values, and operating principles. It
 This layer governs each working session. It is the interface between your cognitive state and the AI's output. It includes gates, overrides, and pattern interruption instructions.
 
 **Session Gate (run before every session):**
-1. Hours slept
-2. Whether you've eaten
-3. What you're trying to accomplish
+1. Current time — anchor to reality, not subjective experience. e.g. "8am"
+2. Sleep status — overnight, nap, or both. Read literally. e.g. "8 hours" or "midday nap"
+3. Whether you've eaten — e.g. "scrambled eggs"
+4. What you're trying to accomplish — e.g. "find flaws in systems"
+
+**Example gate:** `8am; 8 hours; scrambled eggs; find flaws in systems`
 
 *No gate, no work.* The gate isn't gatekeeping — it's calibration. A dysregulated human using an AI accelerant produces dysregulated output faster.
 
@@ -235,8 +240,6 @@ Attribution: *ShemOS framework by Jill Shem — jillshem.com*
 
 ---
 
----
-
 ## Companion Document
 
 **ShemOS-commands.md** — the shorthand command vocabulary for working within this framework.
@@ -247,5 +250,5 @@ Available in the same repository. A private companion (`ShemOS-commands-PRIVATE.
 
 ---
 
-*First published 2026 · Live document · The framework updates as the case study updates.*
+*First published 2026 · Updated: 2026-03-23 · Live document · The framework updates as the case study updates.*
 *Full research: Human Experience: Aligning Humanity and its Tools — jillshem.com*
